@@ -1,5 +1,5 @@
 {
     "_comment": " 'false'  'true' " ,
-    "updateAvailable": true,
+    "updateAvailable": false,
     "updateUrl": "https://example.com/update"
 }
